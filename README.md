@@ -9,12 +9,12 @@ O Airboard consiste num site de venda de viagens. Contudo, para beneficiar a com
 Ao entrar na página do site, o usuário se deparará com o cabeçalho, no qual haverá a opção de "Programas beneficentes". Nesta página, o usuário terá acesso às ofertas especiais de viagens e programas de viagem com desconto. Ao clicar em "COMPRAR", o usuário será redirecionado para a página de login/cadastro; feito o login, o usuário acederá novamente à página dos programas, na qual pode escolher de qual participar, podendo participar de tão somente um programa beneficente por vez. Ao confirmar a sua escolha, o usuário será redirecionado para uma página final, que informará que um comprovante da escolha do usuário terá sido enviado para este via e-mail.
 # Tecnologias
  **IDE's**
- -Visual Studio Code
- -Eclipse IDE
+ --Visual Studio Code
+ --Eclipse IDE
 
  **Back-End**
- -MySQL(Banco de dados)
- -NodeJS(Framework)
+ --MySQL(Banco de dados)
+ --NodeJS(Framework)
 
  **Design e Estrutura**
  -figma
